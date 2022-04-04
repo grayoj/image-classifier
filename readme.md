@@ -18,7 +18,7 @@ The VGG16 is a convolution neural network model architecture that is the best cl
 
 Go ahead an clone this specific repository. You could do this through the command below:
 
-    > git clone https://github.com/
+    > git clone https://github.com/grayoj/Python-Image-Classification.git
 
 Then navigate to the directory. If you use VSCode, you could avoid interacting with the terminal.
 
@@ -30,7 +30,7 @@ Run the following commands in the directory:
 
 Go ahead an clone this specific repository. You could do this through the command below:
 
-    > git clone https://github.com/
+    > git clone https://github.com/grayoj/Python-Image-Classification.git
 
 To install Python, download <a href="python.org">here</a>. If you already have Python 3.5 installed, you may proceed to the next steps below:
 
@@ -61,7 +61,7 @@ You are set. Now let's dial in to a localhost port.
 
 Viola, the application should load sucessfully. If there are any errors, ensure you installed the modules properly.
 
-    ttp://127.0.0.1:5000 
+    Http://127.0.0.1:5000 
 
 Don't worry if you notice a sudden download process. Tensorflow would begin to download dependencies for the VGG16 Covolutional Neural network model.
 
