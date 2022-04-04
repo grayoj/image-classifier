@@ -41,6 +41,7 @@ def predict():
     label = decode_predictions(yhat)
     label = label[0][0]
     
+    #Make Classifications    
     classification = '%s (%.2f%%)' % (label[1], label[2]*100)
     
     return render_template('app.html', prediction=classification)
@@ -48,3 +49,4 @@ def predict():
 # Intitalise Port
 if __name__ == '__main__':
     app.run(port=3000, debug=True)
+
