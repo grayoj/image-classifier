@@ -95,4 +95,6 @@ Reach out to me if you have questions or suggestions. Would love to connect.
 
 ****
 Twitter: @geraldabuchi
+
 # Python-Image-Classification
+Flask, Keras, Tensorflow, VGG16
