@@ -10,6 +10,7 @@ from keras.applications.vgg16 import preprocess_input
 from keras.applications.vgg16 import VGG16
 from keras.applications.vgg16 import decode_predictions
 
+# Start App
 app = Flask(__name__)
 
 #The Model
