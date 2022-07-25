@@ -1,6 +1,8 @@
 # Image Classification in Python
 ![Conda Tests](https://github.com/grayoj/image-classifier/actions/workflows/conda-tests.yml/badge.svg)
 ![CI](https://github.com/grayoj/image-classifier/actions/workflows/tests.yml/badge.svg)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/grayoj/image-classifier.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/grayoj/image-classifier/alerts/) [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/grayoj/image-classifier.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/grayoj/image-classifier/context:python) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/grayoj/image-classifier.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/grayoj/image-classifier/context:javascript)
+<a href="https://codeclimate.com/github/grayoj/image-classifier/maintainability"><img src="https://api.codeclimate.com/v1/badges/c1ff1ab86be5707ea0cf/maintainability" /></a>
 
 **Implementing image classification in Flask using Keras.**
 
