@@ -22,19 +22,24 @@ The VGG16 is a convolution neural network model architecture that is the best cl
 
 Go ahead an clone this specific repository. You could do this through the command below:
 
-    > git clone https://github.com/grayoj/Python-Image-Classification.git
-
+```git
+git clone https://github.com/grayoj/Python-Image-Classification.git
+```
 Then navigate to the directory. If you use VSCode, you could avoid interacting with the terminal.
 
 Run the following commands in the directory:
 
-    > pythom -m flask run
+```git
+pythom -m flask run
+```
 
 ### (Full Set Up)
 
 Go ahead an clone this specific repository. You could do this through the command below:
 
-    > git clone https://github.com/grayoj/Python-Image-Classification.git
+```git
+git clone https://github.com/grayoj/Python-Image-Classification.git
+```
 
 To install Python, download <a href="python.org">here</a>. If you already have Python 3.5 installed, you may proceed to the next steps below:
 
@@ -44,7 +49,9 @@ You will notice this line of code in the ``app.py`` file:
 
 To ensure the modules would be imported on your system, into the project, run the following command:
 
-    > pip install flask
+```powershell
+pip install flask
+```
 
 That would install flask on your local machine.
 Next step is to install the Keras Modules, and packages required. Run the following command:
