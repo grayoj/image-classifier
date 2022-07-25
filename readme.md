@@ -1,4 +1,6 @@
 # Image Classification in Python
+![Conda Tests](https://github.com/grayoj/image-classifier/actions/workflows/conda-tests.yml/badge.svg)
+![CI](https://github.com/grayoj/image-classifier/actions/workflows/tests.yml/badge.svg)
 
 **Implementing image classification in Flask using Keras.**
 
