@@ -30,7 +30,7 @@ Then navigate to the directory. If you use VSCode, you could avoid interacting w
 Run the following commands in the directory:
 
 ```git
-pythom -m flask run
+python -m flask run
 ```
 
 ### (Full Set Up)
